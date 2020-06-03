@@ -4,4 +4,6 @@
 
 Une démo de git qui se passe bien.
 
-et maintenant on modifie depuis github
+Et maintenant on modifie depuis github
+
+Mais aussi depuis ma machine locale
